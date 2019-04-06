@@ -1,3 +1,3 @@
 # scikit
 机器学习
-KNN
+[KNN](www.baidu.com)
